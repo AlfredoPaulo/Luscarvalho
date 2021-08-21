@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ---
 
+##Ferramentas e Linguagens
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
@@ -30,17 +32,21 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Gimp](https://img.shields.io/badge/-Gimp-05122A?style=for-the-badge&logo=Gimp&logoColor=5C5543)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=for-the-badge&logo=EclipseIDE&logoColor=2C2255)&nbsp;
-![Gimp](https://img.shields.io/badge/-Gimp-05122A?style=for-the-badge&logo=Gimp&logoColor=5C5543)&nbsp;
-
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=for-the-badge&logo=Arduino&logoColor=00979D)&nbsp;
 
 ---
 
-<a href="luscarvalho999@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
+##Socials
+
+<a href="https://anilist.co/user/Luscarvalho/"><img src="https://img.shields.io/badge/Luscarvalho-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"/></a> &nbsp;
 <a href="https://instagram.com/luscarvalho.py"><img src="https://img.shields.io/badge/luscarvalho.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
 <a href="https://twitter.com/luscarvalhooo"><img src="https://img.shields.io/badge/luscarvalhooo-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a> &nbsp;
 ![Discord](https://img.shields.io/badge/Luscarvalho%230101-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
+<a href="luscarvalho999@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 
 ---
 
