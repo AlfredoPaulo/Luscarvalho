@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
 ---
 
-## Socials
+<h2 align="center">Socials
 
 <a href="https://anilist.co/user/Luscarvalho/"><img src="https://img.shields.io/badge/Luscarvalho-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"/></a> &nbsp;
 <a href="https://instagram.com/luscarvalho.py"><img src="https://img.shields.io/badge/luscarvalho.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 
 ---
 
-#### Play Now 🎧
+<h3 align="center">Play Now 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&redirect=true)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Luscarvalho&color=blue)
+  ![](https://komarev.com/ghpvc/?username=Luscarvalho&color=blue)
