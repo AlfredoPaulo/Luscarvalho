@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 <p align="left">Eu sou estudante de <strong>Engenharia de Software</strong> em ICET-AM</p>
 
 - 20y
-- Pochita Scan 
+- Pochita Scan
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/2126uubpa2lusvkax73kbi6vi)
+<br/>
+---
 
 ![](https://komarev.com/ghpvc/?username=Luscarvalho&color=blue)
