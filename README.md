@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 20y
 - Pochita Scan
 
-### Now Playing 🎧
+### Escutando Agora 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/2126uubpa2lusvkax73kbi6vi)
 <br/>
