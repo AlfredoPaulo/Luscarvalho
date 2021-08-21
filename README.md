@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Olá, eu sou o Lucas!</h1>
 
 <!--
 **Luscarvalho/Luscarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">Eu sou estudante de <strong>Engenharia de Software</strong> em ICET-AM</p>
+
+- 20y
+- Pochita Scan 
+
+![](https://komarev.com/ghpvc/?username=Luscarvalho&color=blue)
