@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h2 align="center">Ferramentas e Linguagens
+<h2 align="center">Ferramentas e Linguagens</h2>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
 ---
 
-<h2 align="center">Socials
+<h2 align="center">Socials</h2>
 
 <a href="https://anilist.co/user/Luscarvalho/"><img src="https://img.shields.io/badge/Luscarvalho-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"/></a> &nbsp;
 <a href="https://instagram.com/luscarvalho.py"><img src="https://img.shields.io/badge/luscarvalho.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center">Play Now 🎧
+<h3 align="center">Tocando Agora 🎧</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&redirect=true)
 
