@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">Eu sou estudante de <strong>Engenharia de Software</strong> em ICET-AM</p>
+Eu sou estudante de __Engenharia de Software__ em ICET-AM</p>
 
 - 20y
 - Pochita Scan
 
 ---
-
-<h2 align="center">Ferramentas e Linguagens</h2>
-
+## Ferramentas e Linguagens 
+  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
@@ -39,8 +38,7 @@ Here are some ideas to get you started:
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=for-the-badge&logo=Arduino&logoColor=00979D)
   
 ---
-
-<h2 align="center">Socials</h2>
+## Socials
 
 <a href="https://anilist.co/user/Luscarvalho/"><img src="https://img.shields.io/badge/Luscarvalho-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"/></a> &nbsp;
 <a href="https://instagram.com/luscarvalho.py"><img src="https://img.shields.io/badge/luscarvalho.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
@@ -50,11 +48,10 @@ Here are some ideas to get you started:
 <a href="luscarvalho999@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 
 ---
-
-<h3 align="center">Tocando Agora 🎧</h2>
+## Tocando Agora 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&redirect=true)
 
 ---
 
-  ![](https://komarev.com/ghpvc/?username=Luscarvalho&color=blue)
+![](https://komarev.com/ghpvc/?username=Luscarvalho&color=blue)
