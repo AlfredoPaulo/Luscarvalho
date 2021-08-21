@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Ferramentas e Linguagens
+<h2 align="center">Ferramentas e Linguagens
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=for-the-badge&logo=EclipseIDE&logoColor=2C2255)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=for-the-badge&logo=Arduino&logoColor=00979D)&nbsp;
-
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=for-the-badge&logo=Arduino&logoColor=00979D)
+  
 ---
 
 ## Socials
