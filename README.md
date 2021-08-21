@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 <a href="luscarvalho999@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/luscarvalho.py"><img src="https://img.shields.io/badge/@luscarvalho.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
+<a href="https://twitter.com/luscarvalhooo"><img src="https://img.shields.io/badge/@luscarvalhooo-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a> &nbsp;
 
 ---
 
