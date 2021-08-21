@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 ### Escutando Agora 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/2126uubpa2lusvkax73kbi6vi)
-<br/>
----
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ![](https://komarev.com/ghpvc/?username=Luscarvalho&color=blue)
