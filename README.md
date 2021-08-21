@@ -1,4 +1,4 @@
-### Olá, eu sou o Lucas!
+## Olá, eu sou o Lucas!
 
 <!--
 **Luscarvalho/Luscarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
