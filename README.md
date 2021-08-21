@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 20y
 - Pochita Scan
 
-### Escutando Agora 🎧
+### Play Now 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&redirect=true)
 
 ![](https://komarev.com/ghpvc/?username=Luscarvalho&color=blue)
