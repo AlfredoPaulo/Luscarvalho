@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=for-the-badge&logo=EclipseIDE&logoColor=2C2255)&nbsp;
+![Gimp](https://img.shields.io/badge/-Gimp-05122A?style=for-the-badge&logo=Gimp&logoColor=5C5543)&nbsp;
+
 
 ---
 
