@@ -1,6 +1,6 @@
 <h1 align="center">Bem-vindo ao meu GitHub!</h1>
 
-<p align="center">Estudante de __Engenharia de Software__ | 20 anos | :brazil:</p> 
+<p align="center">Estudante de Engenharia de Software | 20 anos | :brazil:</p> 
 
 ---
 <h2 align="center">Ferramentas e Linguagens</h2>
