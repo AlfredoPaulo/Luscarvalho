@@ -38,12 +38,13 @@ Here are some ideas to get you started:
 ---
 
 <a href="luscarvalho999@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/luscarvalho.py"><img src="https://img.shields.io/badge/@luscarvalho.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
-<a href="https://twitter.com/luscarvalhooo"><img src="https://img.shields.io/badge/@luscarvalhooo-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/luscarvalho.py"><img src="https://img.shields.io/badge/luscarvalho.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
+<a href="https://twitter.com/luscarvalhooo"><img src="https://img.shields.io/badge/luscarvalhooo-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a> &nbsp;
+![Discord](https://img.shields.io/badge/Luscarvalho%230101-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 
 ---
 
-### Play Now 🎧
+#### Play Now 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&redirect=true)
 
