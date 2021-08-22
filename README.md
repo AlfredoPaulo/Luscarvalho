@@ -26,11 +26,11 @@
 
 <a href="https://anilist.co/user/Luscarvalho/"><img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"/></a>
 <a href="https://myanimelist.net/profile/LuscarvalhoO"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=MyAnimeList&logoColor=white"/></a>
+![Discord](https://img.shields.io/badge/Luscarvalho%230101-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
+<a href="https://last.fm/user/lucaralhooo"><img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"/></a>
 <a href="https://instagram.com/luscarvalho.py"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://twitter.com/luscarvalhooo"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="luscarvalho999@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-![Discord](https://img.shields.io/badge/Luscarvalho%230101-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
-<a href="https://last.fm/user/lucaralhooo"><img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"/></a>
 
 ---
 <h2 align="center">Tocando Agora 🎧</h2>
