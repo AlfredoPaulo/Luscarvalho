@@ -24,7 +24,7 @@
 <h2 align="center">Socials</h2>
 <h4 align="center">
 
-<a href="luscarvalho999@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="luscarvalho999@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp; 
 ![Discord](https://img.shields.io/badge/Luscarvalho%230101-5865F2?style=for-the-badge&logo=Discord&logoColor=white)&nbsp;
 <a href="https://anilist.co/user/Luscarvalho/"><img src="https://img.shields.io/badge/Luscarvalho-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"/></a>&nbsp;
 <a href="https://instagram.com/luscarvalho.py"><img src="https://img.shields.io/badge/luscarvalho.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
