@@ -34,8 +34,9 @@
 
 ---
 <h4 align="center">Play Now</h4>
+<h4 align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
