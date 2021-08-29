@@ -32,7 +32,6 @@
 <a href="https://twitter.com/luscarvalhooo"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="luscarvalho999@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
----
 <img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>  
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&redirect=true)
