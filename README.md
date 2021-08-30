@@ -31,6 +31,6 @@
 <a href="https://t.me/luscarvalho"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" /></a> 
 ![Gmail](https://img.shields.io/badge/luscarvalho999@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)
   
-<img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>  
+---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&redirect=true)
