@@ -30,7 +30,7 @@
 <a href="https://instagram.com/luscarvalho.py"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://twitter.com/luscarvalhooo"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 ![Gmail](https://img.shields.io/badge/luscarvalho999@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)
-<a href="https:t.me/luscarvalho"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" /></a> 
+<a href="https://t.me/luscarvalho"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" /></a> 
 
 <img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>  
 
