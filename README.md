@@ -10,7 +10,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![MarkDown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=Markdown&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)\
 ![Gimp](https://img.shields.io/badge/-Gimp-0D1117?style=for-the-badge&logo=Gimp&logoColor=5C5543)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=00979D)
