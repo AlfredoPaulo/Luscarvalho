@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![MarkDown](https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=Markdown&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Vs%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Gimp](https://img.shields.io/badge/Gimp-0D1117?style=for-the-badge&logo=Gimp&logoColor=5C5543)
 ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-0D1117?style=for-the-badge&logo=EclipseIDE&logoColor=7269d1)
 ![PostgreSQL](https://img.shields.io/badge/Postgre%20SQL-0D1117?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
