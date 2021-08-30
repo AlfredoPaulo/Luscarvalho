@@ -1,6 +1,5 @@
 ![GIF](https://cdn.discordapp.com/attachments/759589395580977153/881693901537300540/Inserir_um_titulo_1.gif)
 
-
 ---
 <h2 align="center">Ferramentas e Linguagens</h2>
 <h4 align="center">
@@ -11,11 +10,11 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
 ![Gimp](https://img.shields.io/badge/-Gimp-0D1117?style=for-the-badge&logo=Gimp&logoColor=5C5543)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![MarkDown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=Markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-![MarkDown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=Markdown&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
