@@ -13,9 +13,9 @@
 ![MarkDown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=Markdown&logoColor=white)
 ![Gimp](https://img.shields.io/badge/-Gimp-0D1117?style=for-the-badge&logo=Gimp&logoColor=5C5543)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=00979D)
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-0D1117?style=for-the-badge&logo=EclipseIDE&logoColor=7269d1)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=00979D)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
 
   
