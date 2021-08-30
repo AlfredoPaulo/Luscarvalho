@@ -28,8 +28,8 @@
 <a href="https://anilist.co/user/Luscarvalho/"><img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"/></a>
 <a href="https://myanimelist.net/profile/LuscarvalhoO"><img src="https://img.shields.io/badge/MAL-2E51A2?style=for-the-badge&logo=MyAnimeList&logoColor=white"/></a>
 <a href="https://last.fm/user/lucaralhooo"><img src="https://img.shields.io/badge/Last.fm-ff4a42?style=for-the-badge&logo=last.fm&logoColor=white"/></a>
-<a href="https://t.me/luscarvalho"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" /></a> 
 ![Discord](https://img.shields.io/badge/Luscarvalho%230101-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
+<a href="https://t.me/luscarvalho"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" /></a> 
 ![Gmail](https://img.shields.io/badge/luscarvalho999@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)
 
 <img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>  
