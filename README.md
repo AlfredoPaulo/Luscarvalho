@@ -6,11 +6,11 @@
 
 ![C](https://img.shields.io/badge/-C|C++-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=A8B9CC)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=007396) \
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=007396)
 ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=E34F26)
-![MarkDown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=Markdown&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![MarkDown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=Markdown&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Gimp](https://img.shields.io/badge/-Gimp-0D1117?style=for-the-badge&logo=Gimp&logoColor=5C5543)
 ![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=00979D)
