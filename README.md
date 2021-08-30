@@ -1,6 +1,5 @@
-<h1 align="center">Bem-vindo ao meu GitHub!</h1>
+![GIF](https://cdn.discordapp.com/attachments/759589395580977153/881693901537300540/Inserir_um_titulo_1.gif)
 
-<p align="center">Estudante de Engenharia de Software | 20 anos | :brazil:</p> 
 
 ---
 <h2 align="center">Ferramentas e Linguagens</h2>
