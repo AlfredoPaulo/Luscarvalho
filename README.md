@@ -1,7 +1,9 @@
 ![GIF](https://cdn.discordapp.com/attachments/759589395580977153/881693901537300540/Inserir_um_titulo_1.gif)
+
 ---
 <h2 align="center">Ferramentas e Linguagens</h2>
 <h4 align="center">
+  
 ![C](https://img.shields.io/badge/-C|C++-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=A8B9CC)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=007396)
@@ -20,6 +22,7 @@
 ---
 <h2 align="center">Socials</h2>
 <h4 align="center">
+  
 <a href="https://twitter.com/luscarvalhooo"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://instagram.com/luscarvalho.py"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://last.fm/user/lucaralhooo"><img src="https://img.shields.io/badge/Last.fm-ff4a42?style=for-the-badge&logo=last.fm&logoColor=white"/></a>
@@ -28,5 +31,7 @@
 ![Discord](https://img.shields.io/badge/Luscarvalho%230101-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 <a href="https://t.me/luscarvalho"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" /></a> 
 ![Gmail](https://img.shields.io/badge/luscarvalho999@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)
+  
 <img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>  
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&redirect=true)
