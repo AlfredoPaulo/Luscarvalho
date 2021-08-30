@@ -4,7 +4,7 @@
 <h2 align="center">Ferramentas e Linguagens</h2>
 <h4 align="center">
 
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C++&logoColor=A8B9CC)
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=A8B9CC)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=007396) 
 ![MarkDown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=Markdown&logoColor=white)
