@@ -36,5 +36,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&redirect=true)
   
 <p display="inline-block" align="center">
-    <img align="center" height="145em" src="https://github-readme-stats.vercel.app/api?username=Reydux&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true">
+    <img align="center" height="145em" src="https://github-readme-stats.vercel.app/api?username=Luscarvalho&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true">
 </p>
